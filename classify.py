@@ -2,6 +2,7 @@
 """
 Usage:
     python predict.py path/to/image.jpg
+python script that runs the h5 model
 """
 
 import sys
