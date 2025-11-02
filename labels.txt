@@ -1,0 +1,4 @@
+0 Solder Bridge
+1 Cold Joint
+2 Good Solder
+3 Insufficient solder
